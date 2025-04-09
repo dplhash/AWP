@@ -12,10 +12,12 @@ Regular Updates: Enjoy frequent enhancements and new features.
 Customizable Settings: Tailor the executor to fit your personal gaming style.
 Benefits of Using AWP Executor:
 Feature	Description
+
 🚀 Speed	Experience lightning-fast execution speeds.
 🔒 Security	Top-tier protection to keep your account safe.
 🎨 Customization	Adaptable scripting environment for personalized use.
 🤝 Community	Access to a supportive community of fellow users.
+
 How to Get Started:
 Download: Click the download link above to get started.
 Install: Follow the simple installation guide.
